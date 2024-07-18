@@ -1,0 +1,35 @@
+.header-ad {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .mySlides {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: auto;
+  }
+  
+  .carousel-inner {
+    width: 100%;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+  }
+
+  .footer-main{
+    border: 2px  solid;
+    border-top-color: #6c6c6c;
+    border-right-color: white;
+    border-left-color: white;
+    border-bottom-color: white;
+  }
+  .container-fluid{
+    width: 1200px;
+    width: 100%;
+  }
